@@ -1,0 +1,30 @@
+.brand-text {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+/* Nav links */
+.nav-links .nav-link {
+  margin-left: 15px;
+  font-size: 16px;
+}
+
+.nav-links .nav-link:hover {
+  color: #0d6efd;
+}
+
+/* Page content */
+.content-section {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.content-section h1 {
+  margin-bottom: 20px;
+  color: #212529;
+}
+
+.content-section p {
+  font-size: 16px;
+  color: #555;
+}
