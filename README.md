@@ -50,7 +50,7 @@ A simple UI showing how Bootstrap helps quickly build responsive and clean inter
 ## 📘 Experiment 2 — Card-Based Layout Using Bootstrap
 
 **Folder:** `bootstrap2/`
-<img src = "bootstrap2\public\Screenshot 2026-01-20 153726.png alt = "page failed to load">
+<img src = "bootstrap2\public\Screenshot 2026-01-20 153726.png" alt = "page failed to load">
 
 ### 📌 Description
 
